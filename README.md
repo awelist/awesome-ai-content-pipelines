@@ -80,6 +80,7 @@ Platforms and tools for delivering content across channels.
 - [Substack](https://substack.com/) — Newsletter publishing platform with built-in monetization.
 - [Medium](https://medium.com/) — Publishing platform for articles and thought leadership.
 - [Buffer](https://buffer.com/) — Social media scheduling and distribution tool.
+- [FacelessShorts](https://facelessshorts.io/) — Faceless short-form video generator with scheduled auto-publishing to TikTok, Reels, and Shorts.
 
 ## Evaluation & Quality Control
 
